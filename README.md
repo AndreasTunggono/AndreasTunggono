@@ -73,9 +73,6 @@ I have over 3 years of experience in software development, mainly working with S
         <img src="https://github-readme-stats.vercel.app/api?username=AndreasTunggono&show_icons=true&count_private=true&theme=dracula" />
     </a>
     <a href="https://github.com/AndreasTunggono/AndreasTunggono">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasTunggono&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
-    </a> 
-    <a href="https://github.com/AndreasTunggono/AndreasTunggono">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreasTunggono&theme=dracula&hide_border=false" alt="GitHub Stats streak">
     </a>
 </p>
