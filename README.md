@@ -62,16 +62,14 @@ I have over 3 years of experience in software development, mainly working with S
 ### Other Skills
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+
+## 🏆 My Github Stats
+[![AndreasT's Activity on Github](https://github-readme-activity-graph.vercel.app/graph?username=AndreasTunggono&theme=dracula)](https://github.com/AndreasTunggono/github-readme-activity-graph)
 <p align="center">
     <a href="https://github.com/AndreasTunggono/AndreasTunggono">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreasTunggono&theme=dracula&hide_border=false" alt="GitHub Stats streak">
     </a>
 </p>
-
-
-## 🏆 My Github Stats
-[![AndreasT's Activity on Github](https://github-readme-activity-graph.vercel.app/graph?username=AndreasTunggono&theme=dracula)](https://github.com/AndreasTunggono/github-readme-activity-graph)
-
 
 
 ## ✨ Find me on social media:
