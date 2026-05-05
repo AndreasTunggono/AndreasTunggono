@@ -69,12 +69,12 @@ I have over 3 years of experience in software development, mainly working with S
    <a href="https://github.com/AndreasTunggono/AndreasTunggono">
         <img src="https://github-profile-trophy.vercel.app/?username=AndreasTunggono&column=-1&theme=dracula" />
     </a>
- </br>
+ <br></br>
     <a href="https://github.com/AndreasTunggono/AndreasTunggono">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreasTunggono&theme=dracula&hide_border=false" alt="GitHub Stats streak">
     </a>
 </p>
-</br>
+<br></br>
 
 ## ✨ Find me on social media:
 <a href="https://www.linkedin.com/in/andreastunggono/" target="blank">
