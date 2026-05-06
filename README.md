@@ -64,7 +64,7 @@ I have over 3 years of experience in software development, mainly working with S
 
 
 ## 🏆 My Github Stats
-[![AndreasT's Activity on Github](https://github-readme-activity-graph.vercel.app/graph?username=AndreasTunggono&theme=dracula)](https://github.com/AndreasTunggono/github-readme-activity-graph)
+[![AndreasT's Activity on Github](https://github-readme-activity-graph.vercel.app/graph?username=AndreasTunggono&theme=redical)](https://github.com/AndreasTunggono/github-readme-activity-graph)
 <p align="center">
    <a href="https://github.com/AndreasTunggono/AndreasTunggono">
         <img src="https://github-profile-trophy.vercel.app/?username=AndreasTunggono&column=-1&theme=dracula" />
